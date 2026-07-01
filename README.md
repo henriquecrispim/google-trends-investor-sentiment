@@ -33,7 +33,6 @@ Para embasar a metodologia e a interpretação dos resultados deste projeto, for
    
 3. **Preis, T., Moat, H. S., & Stanley, H. E. (2013). *Quantifying Trading Behavior in Financial Markets Using Google Trends*. Scientific Reports, 3(1), 1-6.**
    - *Provou que estratégias de trading baseadas no volume de buscas de termos financeiros no Google podem superar significativamente o desempenho de estratégias tradicionais de 'buy-and-hold'.*
-   -
 
 - ## 🛠️ Tecnologias Utilizadas
 - **Python 3**
