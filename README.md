@@ -34,11 +34,11 @@ Para embasar a metodologia e a interpretação dos resultados deste projeto, for
 3. **Preis, T., Moat, H. S., & Stanley, H. E. (2013). *Quantifying Trading Behavior in Financial Markets Using Google Trends*. Scientific Reports, 3(1), 1-6.**
    - *Provou que estratégias de trading baseadas no volume de buscas de termos financeiros no Google podem superar significativamente o desempenho de estratégias tradicionais de 'buy-and-hold'.*
 
-- ## 🛠️ Tecnologias Utilizadas
-- **Python 3**
-- **Pytrends API** (Extração de dados do Google Trends)
-- **Yahoo Finance API (`yfinance`)** (Coleta de dados reais de mercado)
-- **Pandas & Matplotlib** (Tratamento de séries temporais e visualização técnica)
+## 🛠️ Tecnologias Utilizadas
+* **Python 3**
+* **Pytrends API** (Extração de dados do Google Trends)
+* **Yahoo Finance API (`yfinance`)** (Coleta de dados reais de mercado)
+* **Pandas & Matplotlib** (Tratamento de séries temporais e visualização técnica)
 
 ## 📈 Resultados Obtidos
 Abaixo está o gráfico gerado automaticamente pelo algoritmo, cruzando o volume de buscas de termos cruciais com os momentos de estresse do mercado brasileiro:
