@@ -49,3 +49,10 @@ Abaixo está o gráfico gerado automaticamente pelo algoritmo, cruzando o volume
 - Manipulação de dados estruturados e de séries temporais (*time series analysis*).
 - Integração de APIs não oficiais e sincronização de janelas temporais de fontes distintas (Dados Semanais vs Diários).
 - Plotagem gráfica com rigor analítico e marcações de eventos reais.
+
+---
+
+## 🚀 Como Executar o Projeto
+1. Abra o arquivo com extensão `.ipynb` presente neste repositório diretamente no seu **Google Colab**.
+2. Execute todas as células pressionando as teclas **Ctrl + F9** (ou vá no menu superior em *Ambiente de Execução* -> *Executar tudo*).
+3. O algoritmo irá instalar as dependências de forma automática, buscar os dados mais recentes diretamente das APIs em tempo real e renderizar o gráfico atualizado na saída da célula, gerando o arquivo `analise_sentimento.png` pronto para exportação.
